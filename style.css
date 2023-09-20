@@ -5,7 +5,8 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #35424a;
-  border: 3px solid #e8491d;
+  border-top: 3px solid yellow;
+  border-bottom: 3px solid yellow;
   text-align: center;
 }
 
@@ -22,3 +23,27 @@ body {
   color: white;
   margin: 0 15px;
 }
+
+#övre {
+  display: flex;
+  flex-direction: column;
+  background-image: url(images/showcase.jpg);
+  background-repeat: no-repeat;
+  align-items: center;
+  border-bottom: 3px solid #e8491d;
+  background-color: #35424a;
+}
+
+#övre h1 {
+  color: white;
+  font-size: 48px;
+}
+
+#övre p {
+  color: white;
+  font-size: 18px;
+  width: 75%;
+  text-align: center;
+}
+
+
