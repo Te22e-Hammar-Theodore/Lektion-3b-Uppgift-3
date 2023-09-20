@@ -46,4 +46,12 @@ body {
   text-align: center;
 }
 
-
+#mellan {
+  background-color: #35424a;
+  color: white;
+  align-items: center;
+  text-align: center;
+  height: 100pxs;
+  border-top: 3px solid yellow;
+  border-bottom: 3px solid yellow;
+}
