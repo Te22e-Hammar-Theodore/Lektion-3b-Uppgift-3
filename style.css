@@ -66,9 +66,20 @@ body {
   flex-direction: column;
   align-items: center;
   border: 2px solid yellow;
-  padding: 15px;
+  padding-top: 15px;
 }
 
 .box p {
   text-align: center;
+}
+
+#sidfot {
+  background-color: #e8491d;
+  text-align: center;
+  /* height: 50px; */
+}
+
+#sidfot p {
+  margin: 0;
+  padding: 20px 0;
 }
